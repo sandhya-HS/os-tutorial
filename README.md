@@ -1,5 +1,6 @@
 # os-tutorial
-file 2021
+FCFS and FIFO
 REPORT
 PPT on FCFS snd FIFO
 FCFS code
+FIFO code
