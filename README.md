@@ -1,6 +1,6 @@
 # os-tutorial
-FCFS and FIFO
+Round-robin and FIFO
 REPORT
-PPT on FCFS snd FIFO
-FCFS code
+PPT on Round-robin snd FIFO
+round-robin code
 FIFO code
